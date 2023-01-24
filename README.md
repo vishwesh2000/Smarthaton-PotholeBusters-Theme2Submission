@@ -41,8 +41,11 @@ Packages to be installed:
 **c)** 'postwarp.py' - for *area estimation and CSV creation*.
 
 
+### *Scene 1 pothole detection video* - https://www.youtube.com/watch?v=vv2vlYfaftM
 
-### *Youtube Video (Model Demo)* - https://youtu.be/MO6h2W1zYjM
+### *Scene 2 pothole detection video* - https://www.youtube.com/watch?v=ywfsOBa1Ms0
+
+### *Model briefing and demo video* - https://youtu.be/MO6h2W1zYjM
 
 
 ## Results: 🔍🛠️🚧
