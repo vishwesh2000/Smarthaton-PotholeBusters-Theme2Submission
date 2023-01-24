@@ -9,7 +9,7 @@
 
 **c)** Perform image processing and perspective transformation to enable improved contouring for area estimation. 
 
-**d)** Use midas model (Robust Monocular Depth Estimation) for depth estimation of potholes. The value returned corresponds to the mean depth intensity which correlates to the Severity of the pothole in the image. 
+**d)** Use MiDaS model (Robust Monocular Depth Estimation) for depth estimation of potholes. The value returned corresponds to the mean depth intensity which correlates to the Severity of the pothole in the image. 
 
 [![Flowchart-removebg-preview.png](https://i.postimg.cc/QdBqsCn7/Flowchart-removebg-preview.png)](https://postimg.cc/ZWSNxbmY) 
 
